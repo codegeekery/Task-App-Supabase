@@ -1,6 +1,6 @@
 # 📋 Gestor de Tareas con React Router y Supabase
 
-[![Stack](https://skillicons.dev/icons?i=supabase,ts,vite,remix,postgres,npm,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,ts,vite,remix,postgres,npm,react&theme=light)](https://skillicons.dev)
 
 Aplicación completa para gestión de tareas con operaciones CRUD usando React Router v7 y Supabase como backend.
 
