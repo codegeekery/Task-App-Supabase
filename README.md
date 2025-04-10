@@ -4,7 +4,7 @@
 
 Aplicación completa para gestión de tareas con operaciones CRUD usando React Router v7 y Supabase como backend.
 
-## 🚀 Características Principales
+# 🚀 Características Principales
 
 - **CRUD Completo** de tareas
 - **Interfaz intuitiva** con formularios
@@ -12,7 +12,7 @@ Aplicación completa para gestión de tareas con operaciones CRUD usando React R
 - **Tipado estático** con TypeScript
 - **Estilos modernos** con Tailwind CSS
 
-## 📦 Estructura del Proyecto
+# 📦 Estructura del Proyecto
 ```
 react-router/
 ├── app/
@@ -41,8 +41,15 @@ react-router/
 ```
 
 
-## 🔧 Requisitos
+# 🔧 Requisitos
 
 - Node.js v22+
 - Cuenta en Supabase
 - Navegador moderno
+
+# 🚧 Próximos Pasos a Completar
+
+- [ ] Formulario Aplicar reset al editar o eliminar tareas
+- [ ] Crear Sistema de Autenticacion. (Supabase Auth, JWT etc... hay varias opciones)
+- [ ] Pulir la tabla que muestras las tareas. De manera que se puedan buscar las tareas mediante un buscador
+- [ ] Agregar Paginacion, para renderizar bien la lista de item. Y no saturar el navegador de tantos item cargando
