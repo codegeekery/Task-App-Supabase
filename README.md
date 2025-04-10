@@ -13,7 +13,7 @@ Aplicación completa para gestión de tareas con operaciones CRUD usando React R
 - **Estilos modernos** con Tailwind CSS
 
 ## 📦 Estructura del Proyecto
-
+```
 react-router/
 ├── app/
 │ ├── components/
@@ -38,7 +38,7 @@ react-router/
 ├── tsconfig.json
 ├── vite.config.js
 └── react-router.config.ts
-
+```
 
 
 ## 🔧 Requisitos
